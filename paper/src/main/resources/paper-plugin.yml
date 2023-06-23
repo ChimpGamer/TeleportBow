@@ -1,0 +1,8 @@
+name: TeleportBow
+main: nl.chimpgamer.teleportbow.paper.TeleportBowPlugin
+version: ${version}
+api-version: '1.19'
+authors:
+  - ChimpGamer
+
+loader: nl.chimpgamer.teleportbow.paper.TeleportBowLoader
